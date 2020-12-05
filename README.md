@@ -12,42 +12,44 @@
   </a>&nbsp;&nbsp;
 </p>
 
-Repositorio para los materiales generados las actividades.
+Repositorio para los materiales generados las actividades que se realizara en el discord de la comunidad.
 
-## Generaciones de Comunidad Hack Space
+## 🖋 Generaciones de Comunidad Hack Space
 
-* HackSpace
+* Generacion HackSpace 2016
+* Generacion HackSpace 2017
+* Generacion HackSpace 2019
 
-## Actividades 12 de Diciembre
+## 🔖 Actividades 12 de Diciembre
 
 * Bloque 1
-    * Definición de comunidades a participar y temas a cubrir.
+    * 10 a.m. a 11 a.m. Palabras de Apertura.
 * Bloque 2
-    * Desarrollo de material a colgar en la web.
-    * Desarrollo de material publicitario e inicio de campaña publicitaria.
+    * 2 p.m. a 6 p.m. Presentacion de proyectos.
+    * 6 p.m.Pausa a bloque 3.
 * Bloque 3
-    * Se sube el material a la web y se continúa con la campaña publicitaria.
+    * 10 p.m. a 11 p.m. Presentacion de proyectos.
 * Bloque 4
-    * Talleres presenciales de 2 horas por cada tema.
+    *  11 p.m. Palabras finales.
 
 # [![Entrenamiento de comunidades](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg) Full Day Comunidad Virtual
 
-## Participantes de Comunidad Virtual
+## 🖋 Participantes de Comunidad Virtual
 
-* HackSpace 
+* Participantes de Comunidad Virtual HackSpace 2020
 
-## Actividades 6 de Diciembre
+## 🔖 Actividades 6 de Diciembre
 
 * Bloque 1 
     * 10 a.m. a 11 a.m. Palabras de Apertura.
     * 11 a.m. a 12 p.m. Novedades en la Comunidad.
 * Bloque 2
-    * 4 p.m. 6 . p.m. Presentacion de proyectos.
+    * 4 p.m. a 6 p.m. Presentacion de proyectos.
     * 6 p.m. Pausa a bloque 3.
 * Bloque 3
     * 9 p.m. a 11 p.m. Presentacion de proyectos.
 * Bloque 4
-    * 11 p.m. Initacion a actividad del 12 de Diciembre.
+    * 11 p.m. Invitacion a actividad del 12 de Diciembre.
 
 ## 👀 Más información sobre Colaborador individual
 
