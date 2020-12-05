@@ -1,4 +1,4 @@
-# [![Entrenamiento de comunidades](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Comunidad.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Comunidad.jpg) Full Day Comunidad Virtual
+# [![Comunidades](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Comunidad.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Comunidad.jpg) Full Day Comunidad Virtual
 
 <p align='center'>
    <a href="https://twitter.com/hackspaceperu">
@@ -32,7 +32,7 @@ Repositorio para los materiales generados las actividades que se realizara en el
 * Bloque 4
     *  11 p.m. Palabras finales.
 
-(https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)
+# [![Participantes](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)
 
 ## 🖋 Participantes de Comunidad Virtual
 
