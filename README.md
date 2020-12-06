@@ -23,6 +23,7 @@ Repositorio para los materiales generados las actividades que se realizara en el
 - Alonso Azaldegui [https://github.com/alonsoaz](https://github.com/alonsoaz)
 - Percy Meneses [https://github.com/percymeneses08](https://github.com/percymeneses08)
 - Ider Delzo [https://github.com/soloidx](https://github.com/soloidx)
+- Franco Rojas [https://github.com/fprl0198](https://github.com/fprl0198)
 
 ## 🔖 Actividades 12 de Diciembre
 
@@ -41,6 +42,7 @@ Repositorio para los materiales generados las actividades que se realizara en el
 ## 🖋 Participantes de Comunidad Virtual
 
 * Participantes de Comunidad Virtual HackSpace 2020
+- Jose Flores [https://github.com/jotajotadev](https://github.com/jotajotadev)
 
 ## 🔖 Actividades 6 de Diciembre
 
