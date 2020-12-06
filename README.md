@@ -19,6 +19,10 @@ Repositorio para los materiales generados las actividades que se realizara en el
 * Generacion HackSpace 2016
 * Generacion HackSpace 2017
 * Generacion HackSpace 2019
+- James Valencia [https://github.com/javalpe](https://github.com/javalpe)
+- Alonso Azaldegui [https://github.com/alonsoaz](https://github.com/alonsoaz)
+- Percy Meneses [https://github.com/percymeneses08](https://github.com/percymeneses08)
+- Ider Delzo [https://github.com/soloidx](https://github.com/soloidx)
 
 ## 🔖 Actividades 12 de Diciembre
 
