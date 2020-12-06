@@ -24,6 +24,8 @@ Repositorio para los materiales generados las actividades que se realizara en el
 - Percy Meneses [https://github.com/percymeneses08](https://github.com/percymeneses08)
 - Ider Delzo [https://github.com/soloidx](https://github.com/soloidx)
 - Franco Rojas [https://github.com/fprl0198](https://github.com/fprl0198)
+* Generacion HackSpace Verano 2020
+- Rachel Rioseco [https://github.com/laurarachel](https://github.com/laurarachel)
 
 ## 🔖 Actividades 12 de Diciembre
 
