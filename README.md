@@ -38,10 +38,16 @@ Repositorio para los materiales generados las actividades que se realizara en el
 
 ## 🔖 Actividades 12 de Diciembre
 
-* Bloque 1
-    * 4 p.m. Palabras de Apertura.
-    * 4 p.m. a 9 p.m. Presentacion de proyectos.
-    * 9 p.m. Palabras finales.
+* Bloque 1 
+    * 10 a.m. Palabras de Apertura.
+    * 11 a.m. Novedades en la Comunidad.
+* Bloque 2
+    * 2 p.m. a 6 p.m. Presentacion de proyectos.
+    * 6 p.m. Pausa a bloque 3.
+* Bloque 3
+    * 10 p.m. a 11 p.m. Presentacion de proyectos.
+* Bloque 4
+    * 11 p.m. Palabras Finales.
 
 # [![Participantes](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)](https://raw.githubusercontent.com/HackSpacePeru/Full-Day/main/Full%20Day%20Participante.jpg)
 
@@ -52,16 +58,10 @@ Repositorio para los materiales generados las actividades que se realizara en el
 
 ## 🔖 Actividades 6 de Diciembre
 
-* Bloque 1 
-    * 10 a.m. a 11 a.m. Palabras de Apertura.
-    * 11 a.m. a 12 p.m. Novedades en la Comunidad.
-* Bloque 2
-    * 4 p.m. a 6 p.m. Presentacion de proyectos.
-    * 6 p.m. Pausa a bloque 3.
-* Bloque 3
-    * 9 p.m. a 11 p.m. Presentacion de proyectos.
-* Bloque 4
-    * 11 p.m. Invitacion a actividad del 12 de Diciembre.
+* Bloque 1
+    * 4 p.m. Palabras de Apertura.
+    * 4 p.m. a 9 p.m. Presentacion de proyectos.
+    * 9 p.m. Palabras finales.
 
 ## 👀 Más información sobre Colaborador individual
 
