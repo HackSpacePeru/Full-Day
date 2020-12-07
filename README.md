@@ -25,15 +25,16 @@ Repositorio para los materiales generados las actividades que se realizara en el
 * Generacion HackSpace 2016
 * Generacion HackSpace 2017
 * Generacion HackSpace 2019
-- James Valencia [https://github.com/javalpe](https://github.com/javalpe)
-- Alonso Azaldegui [https://github.com/alonsoaz](https://github.com/alonsoaz)
-- Percy Meneses [https://github.com/percymeneses08](https://github.com/percymeneses08)
-- Ider Delzo [https://github.com/soloidx](https://github.com/soloidx)
-- Franco Rojas [https://github.com/fprl0198](https://github.com/fprl0198)
-- Roger [https://github.com/Rogrback](https://github.com/Rogrback)
+    * James Valencia [https://github.com/javalpe](https://github.com/javalpe)
+    * Alonso Azaldegui [https://github.com/alonsoaz](https://github.com/alonsoaz)
+    * Percy Meneses [https://github.com/percymeneses08](https://github.com/percymeneses08)
+    * Ider Delzo [https://github.com/soloidx](https://github.com/soloidx)
+    * Franco Rojas [https://github.com/fprl0198](https://github.com/fprl0198)
+    * Roger [https://github.com/Rogrback](https://github.com/Rogrback)
+    * Pablo Benavides [https://github.com/PBenavides](https://github.com/PBenavides)
 * Generacion HackSpace Verano 2020
-- Rachel Rioseco [https://github.com/laurarachel](https://github.com/laurarachel)
-- Luis Gutierrez [https://github.com/LAGAxyz](https://github.com/LAGAxyz)
+    * Rachel Rioseco [https://github.com/laurarachel](https://github.com/laurarachel)
+    * Luis Gutierrez [https://github.com/LAGAxyz](https://github.com/LAGAxyz)
 
 ## 🔖 Actividades 12 de Diciembre
 
@@ -52,7 +53,7 @@ Repositorio para los materiales generados las actividades que se realizara en el
 ## 🖋 Participantes de Comunidad Virtual
 
 * Participantes de Comunidad Virtual HackSpace 2020
-- Jose Flores [https://github.com/jotajotadev](https://github.com/jotajotadev)
+    * Jose Flores [https://github.com/jotajotadev](https://github.com/jotajotadev)
 
 ## 🔖 Actividades 6 de Diciembre
 
